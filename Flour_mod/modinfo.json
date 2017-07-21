@@ -1,11 +1,11 @@
    {
-       "type": "MOD_INFO",
-       "mod_type": "SUPPLEMENTAL",
-       "ident": "Flour_mod",
-       "name": "追加 - 小麦粉パック",
-       "description": "小麦粉か何かのレシピを追加します。気が向きましたら、どうぞ。",
-       "author": "火男",
-		"dependencies": ["Daizu_mod"],
-		"category": "items",
-       "path": ""
+     "type": "MOD_INFO",
+     "mod_type": "SUPPLEMENTAL",
+     "ident": "Flour_mod",
+     "name": "追加 - 小麦粉パック",
+     "description": "小麦粉か何かのレシピを追加します。気が向きましたら、どうぞ。",
+     "author": "火男",
+     "dependencies": ["Daizu_mod"],
+     "category": "items",
+     "path": ""
    }
